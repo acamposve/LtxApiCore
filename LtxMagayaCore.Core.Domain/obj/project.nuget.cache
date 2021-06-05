@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VaSLJYsHFlyG5QRJv3kxYT1GqYwh9AURsxI4nEHeqh5IGdFXIFKfpnRKTbnnkHU1hEkWhPsDo/ntOwzjvMZifA==",
+  "success": true,
+  "projectFilePath": "/home/alex/Desktop/LtxApiCore/LtxMagayaCore.Core.Domain/LtxMagayaCore.Core.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/alex/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.6/microsoft.entityframeworkcore.abstractions.5.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
