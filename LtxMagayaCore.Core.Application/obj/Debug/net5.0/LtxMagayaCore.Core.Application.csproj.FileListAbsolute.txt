@@ -1,0 +1,17 @@
+D:\Proyectos\LtxMagayaCore.Core.Application\bin\Debug\net5.0\LtxMagayaCore.Core.Application.deps.json
+D:\Proyectos\LtxMagayaCore.Core.Application\bin\Debug\net5.0\LtxMagayaCore.Core.Application.dll
+D:\Proyectos\LtxMagayaCore.Core.Application\bin\Debug\net5.0\ref\LtxMagayaCore.Core.Application.dll
+D:\Proyectos\LtxMagayaCore.Core.Application\bin\Debug\net5.0\LtxMagayaCore.Core.Application.pdb
+D:\Proyectos\LtxMagayaCore.Core.Application\bin\Debug\net5.0\LtxMagayaCore.Core.Domain.dll
+D:\Proyectos\LtxMagayaCore.Core.Application\bin\Debug\net5.0\LtxMagayaCore.Infrastructure.dll
+D:\Proyectos\LtxMagayaCore.Core.Application\bin\Debug\net5.0\LtxMagayaCore.Core.Domain.pdb
+D:\Proyectos\LtxMagayaCore.Core.Application\bin\Debug\net5.0\LtxMagayaCore.Infrastructure.pdb
+D:\Proyectos\LtxMagayaCore.Core.Application\obj\Debug\net5.0\LtxMagayaCore.Core.Application.csproj.AssemblyReference.cache
+D:\Proyectos\LtxMagayaCore.Core.Application\obj\Debug\net5.0\LtxMagayaCore.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\LtxMagayaCore.Core.Application\obj\Debug\net5.0\LtxMagayaCore.Core.Application.AssemblyInfoInputs.cache
+D:\Proyectos\LtxMagayaCore.Core.Application\obj\Debug\net5.0\LtxMagayaCore.Core.Application.AssemblyInfo.cs
+D:\Proyectos\LtxMagayaCore.Core.Application\obj\Debug\net5.0\LtxMagayaCore.Core.Application.csproj.CoreCompileInputs.cache
+D:\Proyectos\LtxMagayaCore.Core.Application\obj\Debug\net5.0\LtxMagayaCore.Core.Application.csproj.CopyComplete
+D:\Proyectos\LtxMagayaCore.Core.Application\obj\Debug\net5.0\LtxMagayaCore.Core.Application.dll
+D:\Proyectos\LtxMagayaCore.Core.Application\obj\Debug\net5.0\ref\LtxMagayaCore.Core.Application.dll
+D:\Proyectos\LtxMagayaCore.Core.Application\obj\Debug\net5.0\LtxMagayaCore.Core.Application.pdb
