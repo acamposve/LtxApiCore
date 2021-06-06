@@ -15,8 +15,7 @@ namespace LtxMagayaCore.Infrastructure.Services
         {
             StartSessionRequest _request = new()
             {
-                user = "webadmin",
-                pass = "we*LTC134679$$"
+          
             };
             var _session = _client.StartSession(_request);
 
